@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26db7b4b-705a-48a4-b9d5-e4d62bc26444" name="Changes" comment="commit first" />
+    <list default="true" id="26db7b4b-705a-48a4-b9d5-e4d62bc26444" name="Changes" comment="commit first">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733840818878</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit first">
+      <option name="closed" value="true" />
+      <created>1733841008414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733841008414</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit first">
+      <option name="closed" value="true" />
+      <created>1733841071180</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733841071180</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
